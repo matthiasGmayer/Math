@@ -3,7 +3,7 @@ A C# Math Library, that contains Linear Algebra.
 ## Features
 - Generic N-dimensional vectors
 - Generic MxN matrices 
-- Functional operators, such as matrix multiplication and addition.  
+- Operations, such as matrix multiplication and addition.  
 - 2D Geometry, like lines, circles and rectangles
 - Linear Equation Solver  
 
