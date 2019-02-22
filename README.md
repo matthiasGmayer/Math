@@ -11,6 +11,7 @@ e.g.
 |3x + 4y +5z = 3|  
 |5x + 3y +7z = 2|  
 |2x + 8y +9z = 1|  
+
 represented as a Matrix:  
 |3 4 5 3|  
 |5 3 7 2|  
