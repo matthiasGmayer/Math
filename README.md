@@ -1,5 +1,5 @@
 # Math
-A C# Math Library, that contains Linear Algebra.  
+A Java Math Library, that contains Linear Algebra.  
 ## Features
 - Generic N-dimensional vectors
 - Generic MxN matrices 
